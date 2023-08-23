@@ -1,0 +1,59 @@
+.App{
+  background-color: rgb(192, 221, 242);
+  height: 100vh;
+  width: 70%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 15%;
+}
+.div2{
+  background-color: rgb(8, 155, 247);
+  width:88%;
+}
+.div3{
+  background-color: rgb(217, 216, 216);
+  width: 75%;
+}
+table{
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+td div {
+  border-left: 1px solid grey;
+  height: 3rem;
+  margin-left: 6px;
+}
+td{
+  padding-left: 36px;
+}
+.icon{
+  background-color: rgb(13, 134, 234);
+}
+.progress-bar{
+  background-color: rgb(209, 206, 206);
+}
+.bi-speedometer2{
+  font-size: 50px;
+  color: rgb(25, 146, 245);
+}
+.fnt{
+  font-size: 1.5rem;
+}
+.smal{
+  font-size: 0.7rem;
+  color: white;
+}
+.position-absolute{
+  top:8.125rem;
+  left: 19rem;
+}
+.fontt{
+  font-size: 5rem;
+}
+.fonttt{
+  position: absolute;
+  top: 11rem;
+  left: 19rem;
+}
+
